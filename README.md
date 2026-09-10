@@ -714,6 +714,9 @@ exiftool report_3_open.pdf
 - Excel sheet showing the SQL backup converted into readable tables for easier analysis.
 
 
+[📊 View SQL Excel Sheet](SQL_Table.xlsx)
+
+
 ### Shareholders Information
 
 - Share Percentage
